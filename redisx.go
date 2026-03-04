@@ -1,4 +1,4 @@
-package main
+package plugin_reportorPlugin
 
 import "github.com/redis/go-redis/v9"
 
